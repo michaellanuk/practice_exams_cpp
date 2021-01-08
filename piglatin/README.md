@@ -32,5 +32,4 @@ The file 'fruit.txt' translated into Pig Latin is:
 Imetay iesflay ikelay anway arrowway, 
 utbay uitfray iesflay ikelay away ananabay!
 (Ouchogray Arxmay 1890-1977)
-
 ```
