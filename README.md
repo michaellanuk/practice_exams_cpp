@@ -1,6 +1,6 @@
 # MSc Computing Science C++ Programming
 
-Past paper exam solutions for Introduction to C++ Programming
+Practice paper exam solutions for Introduction to C++ Programming module
 
 ## Usage
 
