@@ -11,4 +11,4 @@ e.g.
    H  e  l  l  o  !  
 ```
 
-'O's denote raised 'dots'
+'`O`'s denote raised 'dots'
