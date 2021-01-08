@@ -10,3 +10,5 @@ e.g.
 .O .. .. O. O. O. O. 
    H  e  l  l  o  !  
 ```
+
+'O's denote raised 'dots'
