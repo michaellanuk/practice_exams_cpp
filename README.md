@@ -4,4 +4,4 @@ Practice paper exam solutions for Imperial College London's Introduction to C++ 
 
 ## Usage
 
-Compile using `make` followed by `./executable_name`
+Each exam comes with its own makefile. Use `make` followed by `./executable_name`
